@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5201f4fb-8aaa-4719-8e4a-68ecc047abdd"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.ishaaq.expomoduleseasbunrepro",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.ishaaq.expomoduleseasbunrepro"
+    }
+  }
+}

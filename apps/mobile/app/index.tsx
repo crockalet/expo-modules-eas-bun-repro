@@ -1,5 +1,7 @@
 import { Text, View } from "react-native";
 
+import TestModule from 'test-module'
+
 export default function Index() {
   return (
     <View
@@ -9,7 +11,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>{TestModule.hello()}</Text>
     </View>
   );
 }
