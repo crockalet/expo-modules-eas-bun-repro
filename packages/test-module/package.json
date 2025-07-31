@@ -21,13 +21,7 @@
     "test-module",
     "TestModule"
   ],
-  "repository": "https://github.com/crockalet/test-module",
-  "bugs": {
-    "url": "https://github.com/crockalet/test-module/issues"
-  },
-  "author": "crockalet <isse_1997@hotmail.com> (https://github.com/crockalet)",
   "license": "MIT",
-  "homepage": "https://github.com/crockalet/test-module#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "~19.0.0",
